@@ -1,5 +1,4 @@
-# To-Do-List-D-D
-List of Spells for D&amp;D in React
+
 
 <h1 align="center"> To-Do List for Dungeons and Dragons</h1>
 <h3 align="center">List of spells for magic users<h3 align="center"> 
